@@ -13,6 +13,6 @@ for replication, please change the directory to match yours and fill in the exce
 <br>
 <br>
 
-The [publication_data](publication_data/) folder contains an excel file with all the data from the samples used to publish the journal paper IOD: ********
+The [publication_data](publication_data/) folder contains an excel file with all the data from the samples used to publish the journal paper DOI: ********
 
 
